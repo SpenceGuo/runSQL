@@ -40,7 +40,8 @@ def run_sql():
 
 
 def main():
-    print(run_sql())
+    run_sql()
+    print("Finished!")
 
 
 if __name__ == '__main__':
