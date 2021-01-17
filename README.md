@@ -5,7 +5,7 @@
 ## 步骤
 1.在`configuration.py`文件中配置你的数据库相关参数。  
   
-2.将需要运行的的sql文件放入`sql_files`文件夹下。  
+2.将`sql_files`文件夹中原有的sql文件删除，并将你需要运行的的sql文件放入`sql_files`文件夹下。  
   
 3.修改`run_sql.py`文件中的文件路径为你的sql文件路径。  
   
