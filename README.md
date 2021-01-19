@@ -1,5 +1,5 @@
 # runSQL
- python codes for running sql files
+ python codes for running sql files.
 
 # 运行方法
 ## 步骤
